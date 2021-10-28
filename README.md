@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning AI, Flutter, Nest, Django y Latex.
+🌱 Actualemnte estoy aprendiendo AI, Flutter, Nest, Django y Latex.
+En cuanto a AI tengo algo de experiencia y conocimiento pero esta área es tan grande y apasionante que siempre hay algo nuevo por aprender.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndersCFR&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=181818" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersCFR&theme=light&hide_langs_below=1" />
 
