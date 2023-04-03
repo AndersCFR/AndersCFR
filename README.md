@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Actualmente aprendiendo AI, Data Science, Flutter, Nest, Django y Latex.
+Actualmente aprendiendo AI, Data Science, Data Engineer, Backend and DevOps.
 
 <!--
 En cuanto a AI tengo algo de experiencia y conocimiento pero esta área es tan grande y apasionante que siempre hay algo nuevo por aprender.
